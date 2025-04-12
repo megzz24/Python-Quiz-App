@@ -12,4 +12,4 @@ A command-line trivia game in Python using the [Open Trivia Database API](https:
 pip install -r requirements.txt
 
 ## Run the quis
-python quiz.py
+python quiz_app.py
