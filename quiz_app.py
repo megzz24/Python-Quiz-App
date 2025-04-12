@@ -59,7 +59,6 @@ def run_quiz():
     token = get_token()
 
     categories = get_categories()
-    print(categories)
     print("\nCategories:")
     for i, category in enumerate(categories, 1):
         print(f"{i}. {category['name']}")
