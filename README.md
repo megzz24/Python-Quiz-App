@@ -9,7 +9,7 @@ A command-line trivia game in Python using the [Open Trivia Database API](https:
 - Automatically resets token when all questions in a category are used up
 
 ## Install dependencies
-pip install -r requiremwnts.txt
+pip install -r requirements.txt
 
 ## Run the quis
 python quiz.py
